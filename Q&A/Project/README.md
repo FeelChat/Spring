@@ -1,7 +1,9 @@
 # Project Configuration
 
-## POM
+- [POM](./POM.md)
 
-### `web.xml is missing and <failOnMissingWebXml> is set to true`
+- [CAS](./CAS.md)
 
-![](./image/GenerateDeploymentDescriptorStub.png)
+- [WebSocket](./WebSocket.md)
+
+- [Shiro VS. Spring Security](./Shiro_VS_SpringSecurity.md)
